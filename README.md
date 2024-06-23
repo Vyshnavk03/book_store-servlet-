@@ -1,2 +1,2 @@
-# book_store-servlet-
-This is servlet based project 
+# book_store-JDBC
+This is JDBC based project 
